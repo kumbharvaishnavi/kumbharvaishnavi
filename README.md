@@ -1,6 +1,7 @@
 # 🚀 Vaishnavi Kumbhar  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumbharvaishnavi/)  
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/vaishnavikumbhar)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumbharvaishnavi/) [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/vaishnavikumbhar)
+
 
 **"Engineering is the art of directing the great sources of power in nature for the use and convenience of man."**  
 — *Sir M. Visvesvaraya*  
