@@ -46,7 +46,7 @@
 - **Containerization** — Docker, Kubernetes, Helm  
 - **Cloud Deployments** — AWS, Azure, GCP  
 - **Monitoring & Alerting** — Prometheus, Grafana, CloudWatch  
-- **Security & Compliance** — IAM, server hardening, patch management  
+- **Security & Compliance** — IAM
 
 ---
 
