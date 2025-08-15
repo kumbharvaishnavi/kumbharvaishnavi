@@ -72,7 +72,6 @@
 
 ## 👩‍💻 About Me  
 
-I’m **Vaishnavi Kumbhar**, an aspiring **DevOps Engineer** passionate about **automation, cloud-native architecture, and scalable infrastructure**.  
-Formerly at **IntegrateInfosolutions**, with hands-on experience in **Java, Python, Red Hat Linux, AWS, Azure, GCP, Docker, Kubernetes, Jenkins, Ansible, Terraform**, and more.  
+I’m **Vaishnavi Kumbhar**, an aspiring **DevOps Engineer** passionate about **automation, cloud-native architecture, and scalable infrastructure**. With hands-on experience in **Java, Python, Red Hat Linux, AWS, Azure, GCP, Docker, Kubernetes, Jenkins, Ansible, Terraform**, and more.  
 
 > 🧠 *"I believe in using the right blend of tools to solve problems — not sticking to just one."*  
