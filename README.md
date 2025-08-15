@@ -61,8 +61,8 @@
 
 ## 📊 GitHub Insights  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vidyasagar-patil&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vidyasagar-patil&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumbharvaishnavi&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumbharvaishnavi&layout=compact&theme=tokyonight)  
 
 ---
 
@@ -73,6 +73,6 @@
 ## 👩‍💻 About Me  
 
 I’m **Vaishnavi Kumbhar**, an aspiring **DevOps Engineer** passionate about **automation, cloud-native architecture, and scalable infrastructure**.  
-Formerly at **IntegrateInfosolutions**, with hands-on experience in **Java, Python, C, C++, Red Hat Linux, AWS, Azure, GCP, Docker, Kubernetes, Jenkins, Ansible, Terraform**, and more.  
+Formerly at **IntegrateInfosolutions**, with hands-on experience in **Java, Python, Red Hat Linux, AWS, Azure, GCP, Docker, Kubernetes, Jenkins, Ansible, Terraform**, and more.  
 
 > 🧠 *"I believe in using the right blend of tools to solve problems — not sticking to just one."*  
